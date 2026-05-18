@@ -22,5 +22,6 @@
         <TextBox Watermark="Введите Пароль"
                  Text="{Binding}"/>
         <Button Content="Войти" Command="{Binding}"/>
+        <Button Content="Регистрация" Command="{Binding}"/>
     </StackPanel>
 </Window>
