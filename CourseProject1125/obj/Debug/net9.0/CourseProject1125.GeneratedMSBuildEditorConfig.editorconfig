@@ -15,14 +15,17 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseProject1125
-build_property.ProjectDir = /home/student/RiderProjects/CourseProject1125/CourseProject1125/
+build_property.ProjectDir = C:\Users\danii\RiderProjects\CourseProject11254\CourseProject1125\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/home/student/RiderProjects/CourseProject1125/CourseProject1125/App.axaml]
+[C:/Users/danii/RiderProjects/CourseProject11254/CourseProject1125/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/student/RiderProjects/CourseProject1125/CourseProject1125/Views/MainWindow.axaml]
+[C:/Users/danii/RiderProjects/CourseProject11254/CourseProject1125/Views/MainAppWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/danii/RiderProjects/CourseProject11254/CourseProject1125/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

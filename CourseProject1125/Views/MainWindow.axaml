@@ -11,17 +11,22 @@
     <Design.DataContext>
         <vm:MainWindowViewModel/>
     </Design.DataContext>
+    <StackPanel Spacing="10" Margin="20">
+    <TextBox Name="TxtLogin" 
+             Watermark="Введите логин" 
+             ToolTip.Tip="Введите логин"/>
     
-    <StackPanel Spacing="50"
-                HorizontalAlignment="Center"
-                VerticalAlignment="Center">
-                
+    <TextBox Name="TxtPassword" 
+             PasswordChar="*" 
+             Watermark="Введите пароль" 
+             ToolTip.Tip="Введите пароль"/>
     
-        <TextBox Watermark="Введите Логин"
-                 Text="{Binding}"/>
-        <TextBox Watermark="Введите Пароль"
-                 Text="{Binding}"/>
-        <Button Content="Войти" Command="{Binding}"/>
-        <Button Content="Регистрация" Command="{Binding}"/>
+    <Button Content="Войти" 
+            Click="BtnLogin_Click" 
+            HorizontalAlignment="Center"/>
+    
+    <TextBlock Name="LblError" 
+               Foreground="Red" 
+               HorizontalAlignment="Center"/>
     </StackPanel>
 </Window>

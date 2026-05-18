@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/student/RiderProjects/CourseProject1125/CourseProject1125/CourseProject1125.csproj": {}
+    "C:\\Users\\danii\\RiderProjects\\CourseProject11254\\CourseProject1125\\CourseProject1125.csproj": {}
   },
   "projects": {
-    "/home/student/RiderProjects/CourseProject1125/CourseProject1125/CourseProject1125.csproj": {
+    "C:\\Users\\danii\\RiderProjects\\CourseProject11254\\CourseProject1125\\CourseProject1125.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/student/RiderProjects/CourseProject1125/CourseProject1125/CourseProject1125.csproj",
+        "projectUniqueName": "C:\\Users\\danii\\RiderProjects\\CourseProject11254\\CourseProject1125\\CourseProject1125.csproj",
         "projectName": "CourseProject1125",
-        "projectPath": "/home/student/RiderProjects/CourseProject1125/CourseProject1125/CourseProject1125.csproj",
-        "packagesPath": "/home/student/.nuget/packages/",
-        "outputPath": "/home/student/RiderProjects/CourseProject1125/CourseProject1125/obj/",
+        "projectPath": "C:\\Users\\danii\\RiderProjects\\CourseProject11254\\CourseProject1125\\CourseProject1125.csproj",
+        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danii\\RiderProjects\\CourseProject11254\\CourseProject1125\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/student/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "http://192.168.200.81:8081/repository/nuget.org-proxy/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
@@ -101,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/student/.dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\danii\\.dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
